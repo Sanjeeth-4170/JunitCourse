@@ -10,5 +10,10 @@ public class GitHubTest {
 	public void test() {
 		assertEquals(100,100);
 	}
+	
+	@Test
+	public void test1() {
+		assertEquals(100,100);
+	}
 
 }
